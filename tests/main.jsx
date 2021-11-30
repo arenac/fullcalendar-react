@@ -1,5 +1,5 @@
 import React from 'react'
-import { render, cleanup } from 'react-testing-library'
+import { render, cleanup } from '@testing-library/react'
 import FullCalendar from '../dist/main'
 import daygridPlugin from '@fullcalendar/daygrid'
 
